@@ -18,3 +18,6 @@ const auth = isBrowser
   export const login = () => {
     auth.authorize()
   }
+  //https://www.gatsbyjs.org/blog/2019-03-21-add-auth0-to-gatsby-livestream/
+  // 35:27
+  
