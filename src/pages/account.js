@@ -11,7 +11,7 @@ const Settings = () => <p>Settings</p>
 const Billing = () => <p>Billing</p>
 
 const Account = () => {
-    login()
+    login();
 
     return (
         <Router>
